@@ -41,7 +41,7 @@ Make sure Java 17 is installed.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Solut3/SoluteClient
 cd SoluteMenu
 ```
 
